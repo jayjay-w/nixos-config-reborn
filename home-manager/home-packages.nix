@@ -3,6 +3,11 @@
 
   home.packages = with pkgs; [
     # Packages in each category are sorted alphabetically
+    kitty
+    git
+    kate
+    vscode
+    google-chrome
 
     # Desktop apps
     imv
